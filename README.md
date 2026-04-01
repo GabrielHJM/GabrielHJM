@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👨‍💻 Gabriel
 
-<!--
-**GabrielHJM/GabrielHJM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+O bom software não nasce de atalhos ou tendências passageiras, mas da aplicação rigorosa de fundamentos que resistem ao teste do tempo. Construo sistemas robustos, escaláveis e assumo o controle da arquitetura de ponta a ponta.
 
-Here are some ideas to get you started:
+## 📌 Sobre Mim
+* Atuo como **Analista de Suporte** na DSoft Software de Gestão.
+* Acadêmico de **Sistemas de Informação** na Universidade Federal da Grande Dourados (UFGD).
+* Desenvolvo software de forma autônoma e artesanal, escrevendo a lógica de negócios sem depender de geradores artificiais de código.
+* Tenho experiência paralela com design e identidade visual (Agência Avance), o que reflete na atenção aos detalhes na camada de front-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Stack Tecnológico
+A escolha da ferramenta certa para o problema certo é inegociável.
+* **Back-end & Lógica:** Go, Node.js (TypeScript)
+* **Front-end & Reatividade:** Vue.js, React
+* **Persistência de Dados:** PostgreSQL
+
+## 🚀 Projetos em Destaque
+* **[Biblioteca Digital](URL_AQUI):** Plataforma Full-Stack estruturada em Go e Vue.js, desenvolvida do zero para gestão de acervos acadêmicos (TCC).
+* **[Gestão de Colecionadores](URL_AQUI):** Aplicação para o nicho de antigomobilismo com rotas autenticadas e regras de negócio segmentadas por perfis de usuário.
